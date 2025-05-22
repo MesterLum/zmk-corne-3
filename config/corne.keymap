@@ -26,7 +26,7 @@
             bindings = <&kp>, <&kp>;
         };
     };
-    &led_strip {
+    led_strip {
       chain-length = <27>;
     };
       conditional_layers {
